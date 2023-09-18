@@ -8,6 +8,6 @@ Isl0m/Isl0m is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Isl0m)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Isl0m&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isl0m)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isl0m&theme=dark)
